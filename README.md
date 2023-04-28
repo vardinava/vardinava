@@ -10,3 +10,5 @@ Have a great day 🥂
 
 Saya programmer yang ngoding dari buatan sendiri bukan hanya asal bicara.
 Terima kasih sudah berkunjung, saya harap kompetensi saya dapat dipertimbangkan.
+
+I am editing the README file. Adding some more details about the project description.
